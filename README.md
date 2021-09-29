@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Darek
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning PYTHON
+- 💞️ I’m looking to collaborate on job
+- 📫 How to reach me darek@ebud.pl
